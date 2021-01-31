@@ -38,4 +38,4 @@ I had a little bit of difficutly navigating through the process of actually link
 
 ## License
 
-    Copyright [2021] [Israe Aldana]
+    Copyright [2021] [Israel Aldana]
